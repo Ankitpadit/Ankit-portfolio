@@ -26,9 +26,3 @@ A responsive portfolio starter project built with HTML, CSS, and vanilla JavaScr
 - HTML5
 - CSS3 (Flexbox, Grid, media queries)
 - JavaScript (DOM events and form validation)
-
-## Suggested GitHub repository name
-`frontend-portfolio`
-
-## Internship report evidence
-After testing locally, take screenshots of the desktop layout, mobile layout, and form validation. Include only evidence from work you actually tested.
